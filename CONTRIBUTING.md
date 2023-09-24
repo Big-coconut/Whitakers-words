@@ -41,6 +41,4 @@ Great Bug Reports tend to have:
 - What you expected would happen
 - What actually happens
 
-**Thanks!** ❤️ ❤️ ❤️
-
-Whitaker's Words Team
+**Thanks!**
