@@ -1,6 +1,8 @@
 # Whitaker's Words Output Breakdown Program
 
-This program is based on mk270's Whitaker's Words, a tool for parsing and translating Latin words. The goal of this program is to provide a detailed breakdown of each part of the output from Whitaker's Words.
+This program is a tool for parsing and translating Latin words. The goal of this program is to provide a detailed breakdown of each part of the output from Whitaker's Words.
+
+This project is based on WORDS, a Latin dictionary by Colonel William Whitaker (USAF, Retired). Copyright William A. Whitaker (1936-2010).
 
 ## Features
 
@@ -38,3 +40,7 @@ salv.e               V      2 1 PRES ACTIVE  IMP 2 S
 ## Installation
 
 1. Download the [installer](https://github.com/Big-coconut/Whitakers-words/blob/main/Installer/wordsTools.exe) and run it.
+
+## License
+
+This project is licensed under the MIT License, following the licensing terms of the original software. See `LICENSE` for more details.
