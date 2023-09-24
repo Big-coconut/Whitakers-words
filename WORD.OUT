@@ -1,0 +1,10 @@
+salv.e               ADJ    1 1 VOC S M POS               Always    mostfreq
+ [XXXAX]      veryfreq
+well, unharmed, sound; alive; safe, saved;
+salv.e               V      2 1 PRES ACTIVE  IMP 2 S      Always    mostfreq
+ [XXXBX]      frequent
+be well/in good health; [salve => hello/hail/greetings; farewell/goodbye];
+salve                ADV    POS                           Always    mostfreq
+ [XXXDX]      lesser
+hail!/welcome!; farewell!; [salvere jubere => to greet/bid good day];
+

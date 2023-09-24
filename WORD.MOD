@@ -1,6 +1,6 @@
 TRIM_OUTPUT                       N
-HAVE_OUTPUT_FILE                  N
-WRITE_OUTPUT_TO_FILE              N
+HAVE_OUTPUT_FILE                  Y
+WRITE_OUTPUT_TO_FILE              Y
 DO_UNKNOWNS_ONLY                  N
 WRITE_UNKNOWNS_TO_FILE            N
 IGNORE_UNKNOWN_NAMES              Y
@@ -8,9 +8,9 @@ IGNORE_UNKNOWN_CAPS               Y
 DO_COMPOUNDS                      Y
 DO_FIXES                          Y
 DO_TRICKS                         Y
-DO_DICTIONARY_FORMS               Y
+DO_DICTIONARY_FORMS               N
 SHOW_AGE                          Y
 SHOW_FREQUENCY                    Y
-DO_EXAMPLES                       Y
+DO_EXAMPLES                       N
 DO_ONLY_MEANINGS                  N
-DO_STEMS_FOR_UNKNOWN              Y
+DO_STEMS_FOR_UNKNOWN              N
