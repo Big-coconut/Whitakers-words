@@ -25,7 +25,7 @@ salv.e               V      2 1 PRES ACTIVE  IMP 2 S
 ```
 **SALV.E:**
 - **Part of Speech**: Verb
-- **Conjugation**: 2
+- **Conjugation**: 2nd
 - **Form**: 1st
 - **Tense**: Present
 - **Voice**: Active
