@@ -41,6 +41,10 @@ salv.e               V      2 1 PRES ACTIVE  IMP 2 S
 
 1. Download the [installer](https://github.com/Big-coconut/Whitakers-words/blob/main/Installer/wordsTools.exe) and run it.
 
+## Contributing
+
+Contributions are welcome! Please read our contributing guidelines before submitting a pull request.
+
 ## License
 
 This project is licensed under the MIT License, following the licensing terms of the original software. See `LICENSE` for more details.
